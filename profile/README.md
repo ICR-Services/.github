@@ -7,9 +7,15 @@ Acknowledgement of the servies does not preclude or replace team members for ind
 
 Each service has their own repo with a doi, summarised here.
 
+Instructions on managing and maintaing dois for each service are [here](https://github.com/ICR-Services/Instructions)
+
 ### Scientific Computing
+We acknowledge Scientific Computing at The Institute of Cancer Research for providing HPC infrastructure support and training. Their support was instrumental in achieving the results presented in this paper.  [![DOI](https://zenodo.org/badge/755024392.svg)](https://zenodo.org/doi/10.5281/zenodo.10640287)
+
 
 
 ### The RSE Group
+We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper.  [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989) 
+
 
 
