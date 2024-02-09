@@ -1,5 +1,5 @@
 ## Welcome to the ICR Services 👋
-*Making the discoveries that defeta cancer.*
+*Making the discoveries that defeat cancer.*
 
 This repo contains the acknowledgements for papers, posters etc for each of the ICR Servcies that are an integral part of the world class research of the ICR.
 
