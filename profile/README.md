@@ -1,9 +1,9 @@
 ## Welcome to the ICR Services 👋
 *Making the discoveries that defeat cancer.*
 
-This repo contains the acknowledgements for papers, posters etc for each of the ICR Servcies that are an integral part of the world class research of the ICR.
+This repo contains the acknowledgements for papers, posters etc for each of the ICR Services that are an integral part of the world class research of the ICR.
 
-Acknowledgement of the servies does not preclude or replace team members for individual authorship for their contributions.
+Acknowledgement of the services does not preclude or replace individual co-authorship for team members in acknowledgement of their contributions.
 
 Each service has their own repo with a doi, summarised here.
 
@@ -15,7 +15,5 @@ We acknowledge Scientific Computing at The Institute of Cancer Research for prov
 
 
 ### The RSE Group
-We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper.  [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989) 
-
-
+We acknowledge the RSE Group at The Institute of Cancer Research for providing software development and training. Their support was instrumental in achieving the results presented in this paper.  [![DOI](https://zenodo.org/badge/755024489.svg)](https://zenodo.org/doi/10.5281/zenodo.10638989)
 
