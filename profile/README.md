@@ -5,10 +5,9 @@ This repo contains the acknowledgements for papers, posters etc for each of the 
 
 Acknowledgement of the services does not preclude or replace individual co-authorship for team members in acknowledgement of their contributions.
 
-Each service has their own repo with a doi, summarised here:
----
+Instructions for ICR service owners on managing and maintaing dois for each service are [here](https://github.com/ICR-Services/Instructions)
 
-Instructions on managing and maintaing dois for each service are [here](https://github.com/ICR-Services/Instructions)
+Each service has their own repo with a doi, summarised here:
 
 ---
 
