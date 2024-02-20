@@ -7,7 +7,7 @@ Acknowledgement of the services does not preclude or replace individual co-autho
 
 Instructions for ICR service owners on managing and maintaing dois for each service are [here](https://github.com/ICR-Services/Instructions)
 
-Each service has their own repo with a doi, summarised here:
+Each service has their own repo with a doi, summarised here. Click on the links for a full description of the service.:
 
 ---
 
