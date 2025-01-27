@@ -12,7 +12,9 @@ Each service has their own repo with a doi, summarised below. Click on the links
 ---
 
 ## Core Services
-### 
+
+### [Antibody facility](https://github.com/ICR-Services/Antibody-Facility)
+We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibodies. Their support was instrumental in achieving the results presented in this paper https://doi.org/10.5281/zenodo.14748209
 
 ## Scientific Computing
 ### [The RSE Group](https://github.com/ICR-Services/RSE-Group)
