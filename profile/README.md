@@ -27,5 +27,5 @@ We acknowledge Scientific Computing at The Institute of Cancer Research for prov
 
 ---
 
-# Github Campus Program
+### Github Campus Program
 ICR on github is bound by the [github campus licence](https://education.github.com/schools/terms).
