@@ -16,8 +16,14 @@ Each service has their own repo with a doi, summarised below. Click on the links
 ### [Antibody facility](https://github.com/ICR-Services/Antibody-Facility)
 We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibodies. Their support was instrumental in achieving the results presented in this paper https://doi.org/10.5281/zenodo.14748209
 
+### [Genomics Facility](https://github.com/ICR-Services/Genomics-Facility)
+We acknowledge the Genomics facility at The Institute of Cancer Research for providing expert support and sequencing the samples. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14796409
+
 ### [Light Microscopy (Sutton site)](https://github.com/ICR-Services/Light-Microscopy-Facility)
 We acknowledge the Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper https://doi.org/10.5281/zenodo.14708240.
+
+### [Pathology Facility](https://github.com/ICR-Services/Pathology-Facility)
+We acknowledge the Pathology facility at The Institute of Cancer Research for providing expert support and sequencing the samples. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14796430
 
 ## Scientific Computing
 ### [The RSE Group](https://github.com/ICR-Services/RSE-Group)
