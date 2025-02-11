@@ -24,10 +24,10 @@ We acknowledge the Flow Cytometry Facility at The Institute of Cancer Research f
 We acknowledge the Genomics facility at The Institute of Cancer Research for providing expert support and sequencing the samples. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14796409
 
 ### [Light Microscopy (Chelsea site)](https://github.com/ICR-Services/Light-Microscopy-Facility-Chelsea)
-We acknowledge the Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper https://doi.org/10.5281/zenodo.14708240.
+We acknowledge the Chelsea Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper.https://zenodo.org/records/14851952
 
 ### [Light Microscopy (Sutton site)](https://github.com/ICR-Services/Light-Microscopy-Facility)
-We acknowledge the Chelsea Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper.
+We acknowledge the Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper https://doi.org/10.5281/zenodo.14708240.
 
 ### [Pathology Facility](https://github.com/ICR-Services/Pathology-Facility)
 We acknowledge the Pathology facility at The Institute of Cancer Research for providing expert support and sequencing the samples. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14796430
