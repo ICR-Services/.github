@@ -32,7 +32,7 @@ We acknowledge the Light Microscopy facility at The Institute of Cancer Research
 ### [Pathology Facility](https://github.com/ICR-Services/Pathology-Facility)
 We acknowledge the Pathology facility at The Institute of Cancer Research for providing expert support and sequencing the samples. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14796430
 
-## Scientific Computing
+## [Scientific Computing](https://github.com/ICR-Services/ScientificComputing)
 We acknowledge Scientific Computing at The Institute of Cancer Research for providing HPC and software development support. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14962107
 
 ### [The RSE Group](https://github.com/ICR-Services/RSE-Group)
