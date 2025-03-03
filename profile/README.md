@@ -34,7 +34,7 @@ We acknowledge the Pathology facility at The Institute of Cancer Research for pr
 
 ## Scientific Computing
 ### [The RSE Group](https://github.com/ICR-Services/RSE-Group)
-We acknowledge the RSE Group at The Institute of Cancer Research for providing software development, version control support, web hosting and training. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.10638989
+We acknowledge the Scientific Computing's RSE team at The Institute of Cancer Research for providing software development, version control support, web hosting and training. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.10638989
 
 ---
 
