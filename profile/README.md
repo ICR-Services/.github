@@ -1,4 +1,4 @@
-# Welcome to the ICR Services 👋
+# Welcome to the ICR Scientific Support Services 👋
 *Making the discoveries that defeat cancer.*
 
 This repo contains the acknowledgements for papers, posters etc for each of the ICR Services that are an integral part of the world class research of the ICR.
@@ -11,7 +11,7 @@ Each service has their own repo with a doi, summarised below. Click on the links
 
 ---
 
-## Core Services
+## Core Research Facilities
 
 ### [Antibody facility](https://github.com/ICR-Services/Antibody-Facility)
 We acknowledge the Antibody facility at The Institute of Cancer Research for providing Antibodies. Their support was instrumental in achieving the results presented in this paper https://doi.org/10.5281/zenodo.14748209
@@ -32,9 +32,9 @@ We acknowledge the Light Microscopy facility at The Institute of Cancer Research
 ### [Pathology Facility](https://github.com/ICR-Services/Pathology-Facility)
 We acknowledge the Pathology facility at The Institute of Cancer Research for providing expert support and sequencing the samples. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14796430
 
----  
+## Digital Services
 
-## [Scientific Computing](https://github.com/ICR-Services/ScientificComputing)
+### [Scientific Computing](https://github.com/ICR-Services/ScientificComputing)
 We acknowledge Scientific Computing at The Institute of Cancer Research for providing HPC and software development support. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14962107
 
 #### [The RSE Group](https://github.com/ICR-Services/RSE-Group)
@@ -43,7 +43,4 @@ We acknowledge the Scientific Computing's RSE team at The Institute of Cancer Re
 #### [Scientific Computing Infrastructure](https://github.com/ICR-Services/Scientific-Computing/tree/main)
 We acknowledge Scientific Computing at The Institute of Cancer Research for providing HPC infrastructure support and training. Their support was instrumental in achieving the results presented in this paper.  https://zenodo.org/doi/10.5281/zenodo.10640287
 
----
 
-### Github Campus Program
-ICR on github is bound by the [github campus licence](https://education.github.com/schools/terms).
